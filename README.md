@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshet9" target="blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.akshetpatel.tk](www.akshetpatel.tk)
+- 👨‍💻 All of my projects are available at [www.akshetpatel.tk](https://akshetp.github.io/akshetpatel.gitub.io/)
 
 - 📝 I regularly write articles on [https://connectwithiot.wordpress.com/](https://connectwithiot.wordpress.com/)
 

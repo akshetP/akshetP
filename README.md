@@ -7,14 +7,6 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/akshet9" target="blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a> </p> -->
 
-<p align="center">
-  <a href="https://twitter.com/akshet9" target="_blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a>
-  <a href="https://instagram.com/akshet.patel" target="_blank"><img src="https://img.shields.io/badge/Instagram-akshet.patel-orange?style=for-the-badge&logo=instagram" alt="akshet.patel" /></a>
-  <a href="https://www.youtube.com/@akshetpatel" target="_blank"><img src="https://img.shields.io/badge/YouTube-@akshetpatel-red?style=for-the-badge&logo=youtube" alt="@akshetpatel" /></a>
-  <a href="https://linkedin.com/in/akshetpatel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-akshetpatel-blue?style=for-the-badge&logo=linkedin" alt="akshetpatel" /></a>
-</p>
-
-
 - 👨‍💻 All of my projects are available at [akshetpatel.com](https://akshetp.github.io/)
 
 - 📝 I regularly write articles on [connectwithiot](https://connectwithiot.wordpress.com/)
@@ -26,13 +18,19 @@
 - 📄 [View my Resume (Last Updated - 01st June 2023)](https://github.com/akshetP/akshetP/blob/main/Akshet%20Patel_Resume.pdf) [![Download My Resume](https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=pdf-reader&logoColor=white)](https://github.com/akshetP/akshetP/raw/main/Akshet%20Patel_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://twitter.com/akshet9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshet9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshetpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshetpatel" height="30" width="40" /></a>
 <a href="https://fb.com/akshet.patel.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akshet.patel.7" height="30" width="40" /></a>
 <a href="https://instagram.com/akshet.patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshet.patel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@akshetpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@akshetpatel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mechatronicmammal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mechatronicmammal" height="30" width="40" /></a>
+</p> -->
+<p align="center">
+  <a href="https://twitter.com/akshet9" target="_blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a>
+  <a href="https://instagram.com/akshet.patel" target="_blank"><img src="https://img.shields.io/badge/Instagram-akshet.patel-orange?style=for-the-badge&logo=instagram" alt="akshet.patel" /></a>
+  <a href="https://www.youtube.com/@akshetpatel" target="_blank"><img src="https://img.shields.io/badge/YouTube-@akshetpatel-red?style=for-the-badge&logo=youtube" alt="@akshetpatel" /></a>
+  <a href="https://linkedin.com/in/akshetpatel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-akshetpatel-blue?style=for-the-badge&logo=linkedin" alt="akshetpatel" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

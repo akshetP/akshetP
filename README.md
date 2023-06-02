@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Akshet Patel.</h1>
-<h3 align="center">An Aspiring Roboticist currently pursuing MSc in Robotics and Computation from [UCL, London](https://www.ucl.ac.uk/).</h3>
+<h3 align="center">An Aspiring Roboticist currently pursuing MSc in Robotics and Computation at [UCL, London](https://www.ucl.ac.uk/).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshetp&label=Profile%20views&color=0e75b6&style=flat" alt="akshetp" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshetp" alt="akshetp" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/akshet9" target="blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/akshet9" target="blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a> </p> -->
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/akshet9" target="_blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a>
   <a href="https://instagram.com/akshet.patel" target="_blank"><img src="https://img.shields.io/badge/Instagram-akshet.patel-orange?style=for-the-badge&logo=instagram" alt="akshet.patel" /></a>
-  <a href="https://www.youtube.com/c/@akshetpatel" target="_blank"><img src="https://img.shields.io/badge/YouTube-@akshetpatel-red?style=for-the-badge&logo=youtube" alt="@akshetpatel" /></a>
+  <a href="https://www.youtube.com/@akshetpatel" target="_blank"><img src="https://img.shields.io/badge/YouTube-@akshetpatel-red?style=for-the-badge&logo=youtube" alt="@akshetpatel" /></a>
   <a href="https://linkedin.com/in/akshetpatel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-akshetpatel-blue?style=for-the-badge&logo=linkedin" alt="akshetpatel" /></a>
 </p>
 

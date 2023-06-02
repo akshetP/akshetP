@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [akshetpatel.com](https://akshetp.github.io/)
 
-- 📝 I regularly write articles on [connectwithiot](https://connectwithiot.wordpress.com/)
+- 📝 I used to regularly write articles on [connectwithiot](https://connectwithiot.wordpress.com/)
 
 - 💬 Let's chat about **ROS, Path Planning and Control, Machine Learning**
 

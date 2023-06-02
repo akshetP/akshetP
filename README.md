@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/akshet9" target="blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [akshetpatel.com](https://akshetp.github.io/akshetpatel.gitub.io/)
+- 👨‍💻 All of my projects are available at [akshetpatel.com](https://akshetp.github.io/)
 
-- 📝 I regularly write articles on [https://connectwithiot.wordpress.com/](https://connectwithiot.wordpress.com/)
+- 📝 I regularly write articles on [connectwithiot](https://connectwithiot.wordpress.com/)
 
 - 💬 Ask me about **ROS, Path Planning and Control, Machine Learning**
 
 - 📫 How to reach me **akshetp.ap@gmail.com**
 
-- 📄 Know about my experiences [Download my Resume (Last Updated - 01st June 2023)](https://github.com/akshetP/akshetP/blob/main/Akshet%20Patel_Resume.pdf) [![Download Resume](https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=pdf-reader&logoColor=white)](https://github.com/akshetP/akshetP/raw/main/Akshet%20Patel_Resume.pdf)
+- 📄 Know about my experiences [View my Resume (Last Updated - 01st June 2023)](https://github.com/akshetP/akshetP/blob/main/Akshet%20Patel_Resume.pdf) [![Download My Resume](https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=pdf-reader&logoColor=white)](https://github.com/akshetP/akshetP/raw/main/Akshet%20Patel_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

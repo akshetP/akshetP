@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/akshetpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshetpatel" height="30" width="40" /></a>
 <a href="https://fb.com/akshet.patel.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akshet.patel.7" height="30" width="40" /></a>
 <a href="https://instagram.com/akshet.patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshet.patel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@akshetpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@akshetpatel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@akshetpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@akshetpatel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mechatronicmammal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mechatronicmammal" height="30" width="40" /></a>
 </p>
 

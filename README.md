@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshet Patel.</h1>
+<h1 align="center">Hi 👋, I'm Akshet Patel!</h1>
 <h3 align="center">An Aspiring Roboticist currently pursuing MSc in Robotics and Computation at UCL, London.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshetp&label=Profile%20views&color=0e75b6&style=flat" alt="akshetp" /> </p>

@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [connectwithiot](https://connectwithiot.wordpress.com/)
 
-- 💬 Ask me about **ROS, Path Planning and Control, Machine Learning**
+- 💬 Let's chat about **ROS, Path Planning and Control, Machine Learning**
 
 - 📫 How to reach me **akshetp.ap@gmail.com**
 

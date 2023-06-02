@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akshetp.ap@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/akshetpatel/overlay/1635510336293/single-media-viewer/?profileId=ACoAACfSln4BaIAkeH3dr3ER8VwuHcbkVVCYJ6E](https://www.linkedin.com/in/akshetpatel/overlay/1635510336293/single-media-viewer/?profileId=ACoAACfSln4BaIAkeH3dr3ER8VwuHcbkVVCYJ6E)
+- 📄 Know about my experiences [Download my Resume (Last Updated - 01st June 2023](https://github.com/akshetP/akshetP/blob/main/Akshet%20Patel_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

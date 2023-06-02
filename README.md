@@ -40,6 +40,6 @@
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshetp&show_icons=true&locale=en&layout=compact" alt="akshetp" /></p> -->
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshetp&show_icons=true&locale=en" alt="akshetp" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshetp&show_icons=true&locale=en" alt="akshetp" /></p>
 
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshetp&" alt="akshetp" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshetp&" alt="akshetp" /></p>

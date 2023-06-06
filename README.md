@@ -41,3 +41,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshetp&show_icons=true&locale=en" alt="akshetp" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshetp&" alt="akshetp" /></p>
+
+ <!-- ======= World Map Stats ======= -->
+  <div><center> <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5qqptz25swk&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></center><br></div>
+

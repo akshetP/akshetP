@@ -39,7 +39,6 @@
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshetp&show_icons=true&locale=en&layout=compact" alt="akshetp" /></p> -->
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshetp&show_icons=true&locale=en" alt="akshetp" /></p>
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=akshetp&show_icons=true&locale=en)
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshetp&" alt="akshetp" /></p>

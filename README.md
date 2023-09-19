@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akshetp.ap@gmail.com**
 
-- 📄 [View my Resume (Last Updated - 01st June 2023)](https://github.com/akshetP/akshetP/blob/main/Akshet_Patel_Resume_Robotics.pdf)
+- 📄 [View my Resume (Last Updated - 15th September 2023)](https://github.com/akshetP/akshetP/blob/main/Akshet_Patel_Resume_Robotics.pdf)
 - <a href="https://github.com/akshetP/akshetP/raw/main/Akshet_Patel_Resume_Robotics.pdf" download>
   <img src="https://img.shields.io/badge/-Download%20My%20Resume-blue?style=flat-square&logo=pdf-reader&logoColor=white" alt="Download My Resume">
 </a>

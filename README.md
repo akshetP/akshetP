@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshet Patel!</h1>
 <h3 align="center">An Aspiring Roboticist currently pursuing MSc in Robotics and Computation at UCL, London.</h3>
-<img align="right" alt="webdev" width="400" src="https://www.veropool.com/wp-content/uploads/2022/05/dancing-robot-2.gif">
+<img align="right" alt="webdev" width="400" src="https://github.com/akshetP/akshetP.github.io/blob/main/assets/img/intro-bg-optimised.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshetp&label=Profile%20views&color=0e75b6&style=flat" alt="akshetp" /> </p>
 
@@ -20,7 +20,7 @@
 - <a href="https://github.com/akshetP/akshetP/blob/main/Akshet_Patel_Resume_Robotics.pdf" download>
   <img src="https://img.shields.io/badge/-Download%20My%20Resume-blue?style=flat-square&logo=pdf-reader&logoColor=white" alt="Download My Resume">
 </a>
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
 <a href="https://twitter.com/akshet9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshet9" height="30" width="40" /></a>

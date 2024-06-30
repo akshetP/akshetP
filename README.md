@@ -27,7 +27,7 @@
 <a href="https://www.leetcode.com/mechatronicmammal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mechatronicmammal" height="30" width="40" /></a>
 </p> -->
 <p align="center">
-  <a href="https://twitter.com/akshet9" target="_blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=twitter&style=for-the-badge" alt="akshet9" /></a>
+  <a href="https://twitter.com/akshet9" target="_blank"><img src="https://img.shields.io/twitter/follow/akshet9?logo=x&style=for-the-badge" alt="akshet9" /></a>
   <a href="https://instagram.com/akshet.patel" target="_blank"><img src="https://img.shields.io/badge/Instagram-akshet.patel-orange?style=for-the-badge&logo=instagram" alt="akshet.patel" /></a>
   <a href="https://www.youtube.com/@akshetpatel" target="_blank"><img src="https://img.shields.io/badge/YouTube-@akshetpatel-red?style=for-the-badge&logo=youtube" alt="@akshetpatel" /></a>
   <a href="https://linkedin.com/in/akshetpatel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-akshetpatel-blue?style=for-the-badge&logo=linkedin" alt="akshetpatel" /></a>
@@ -42,3 +42,10 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshetp&" alt="akshetp" /></p>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshetP&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshetP&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshetP&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshetP&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshetP&theme=github&utcOffset=8)
